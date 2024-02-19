@@ -5,12 +5,23 @@ By exploring aspects such as adoption rates, geographic distributions, and elect
 Key Points:
 
 Analyzed EV adoption trends over time.
+
 Explored geographic distribution across regions.
+
 Identified top EV makes based on registrations.
+
 Investigated eligibility rates for CAFV in legislative districts.
+
 Visualized distributions using mapping techniques.
+
 Examined electric range variability among EV models.
-Explored average electric range for each make.
+
+Explored the average electric range for each make.
+
 Investigated EV type breakdown (BEV vs. PHEV).
+
 Provided insights for stakeholders in sustainable transportation.
+
 Developed data-driven strategies for informed decision-making.
+
+
